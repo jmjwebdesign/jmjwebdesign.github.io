@@ -2,7 +2,7 @@
 
 // Define some constants
 define( "RECIPIENT_NAME", "Josh Moorcroft-Jones" );
-define( "RECIPIENT_EMAIL", "hello@jmwebdesign.co.uk" );
+define( "RECIPIENT_EMAIL", "josh@nintendofeed.com" );
 define( "EMAIL_SUBJECT", "$subject" );
 
 // Read the form values
